@@ -7,7 +7,7 @@ Input: a<sub>1</sub>, ... , a<sub>n</sub>
 Output: b<sub>1</sub>, ... , b<sub>n</sub> (the a<sub>i</sub>'s in increasing order)  
 
 1. Pick some element a<sub>k</sub> from the input and call it the pivot.  
-2. Reorder the list such that for all i = 1,.., k-1, k+1,..., n:
+2. Reorder the list such that for all i = 1,.., k-1, k+1,..., n:  
       i. all elements a<sub>i</sub> < a<sub>k</sub> come before the pivot.  
       ii. all elements a<sub>i</sub> > a<sub>k</sub> come after the pivot.  
 3. Recursively sort the elements on either side of the pivot. 
