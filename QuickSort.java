@@ -35,7 +35,7 @@ class QuickSort {
 
     static void quickSort (int[] x) { quickSort(x,0,x.length); }
 
-    public static void main (String args[]) {
+    public static void main (String[] args) {
         //test 1
         int[] x = {1,3,4,6,2,4,6,1,4,8};
         System.out.print("Test Array 1: ");
