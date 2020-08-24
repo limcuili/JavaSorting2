@@ -1,7 +1,5 @@
 # JavaSorting2
 
-Note to self: This repo is saved as the directory "LSE/Term 1/MA407 Algorithms & Computation/Week 5/MyCode_Week5"  
-
 ## Quick Sort
 Input: a<sub>1</sub>, ... , a<sub>n</sub>  
 Output: b<sub>1</sub>, ... , b<sub>n</sub> (the a<sub>i</sub>'s in increasing order)  
